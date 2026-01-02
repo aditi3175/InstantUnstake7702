@@ -222,9 +222,6 @@ The bot will:
 This project demonstrates a practical, production-ready approach to instant unstaking by combining smart account delegation, atomic execution, and automation.
 It removes UX friction entirely and ensures users can always unstake at the earliest possible moment.
 
-🔥 Final Note for Judges
-All contracts deploy unchanged to BSC testnet.
-Local testing was used to reliably validate timing-critical behavior in the presence of public testnet faucet limitations.
 
 ---
 
